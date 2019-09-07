@@ -2,7 +2,7 @@ Summary:	Tool to convert C99 code to MSVC-compatible C89
 Summary(pl.UTF-8):	Narzędzie do konwersji kodu C99 do C89 zgodnego z MSVC
 Name:		c99-to-c89
 Version:	1.0.3
-Release:	3
+Release:	4
 License:	Apache v2.0
 Group:		Development/Tools
 #Source0Download: https://github.com/libav/c99-to-c89/releases
